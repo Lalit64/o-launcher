@@ -67,6 +67,7 @@ const rules: KarabinerRules[] = [
             generate_launcher_mode('t', [], 'iTerm'),
             generate_launcher_mode('z', [], 'Zoom.us'),
             generate_launcher_mode('c', [], 'Visual\ Studio\ Code'),
+            generate_launcher_mode('s', [], 'Spotify'),
         ]
     },
 ]
